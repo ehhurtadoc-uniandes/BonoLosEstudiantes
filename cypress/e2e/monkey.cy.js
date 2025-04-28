@@ -51,7 +51,6 @@ function randomEvent(monkeysLeft) {
         }
       }
 
-      // Espera y continúa
       cy.wait(1000).then(() => {
         randomEvent(monkeysLeft - 1);
       });

@@ -2,7 +2,7 @@
 
 Este proyecto implementa técnicas de **Monkey Testing** utilizando **Cypress.io**, como parte del taller de random testing en aplicaciones web.
 
-## 📋 Requisitos
+## Requisitos
 
 - Node.js >= 20.0.0
 - npm (Node Package Manager)
@@ -14,7 +14,7 @@ node -v
 npm -v
 ```
 
-## 🛠 Instalación
+## Instalación
 
 1. Clona o descarga este repositorio.
 2. Abre una terminal en el directorio del proyecto.
@@ -24,7 +24,7 @@ npm -v
 npm install
 ```
 
-## 🧪 Ejecución de las Pruebas
+## Ejecución de las Pruebas
 
 ### Modo interactivo (con interfaz gráfica)
 
@@ -43,7 +43,7 @@ npm run test
 ```
 - Ejecuta las pruebas directamente en la terminal.
 
-## 🚀 Descripción de las Pruebas
+## Descripción de las Pruebas
 
 - **randomClick(monkeysLeft)**:
     - Realiza clicks aleatorios en enlaces visibles de la página hasta completar el número de acciones definido.
